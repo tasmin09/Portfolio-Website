@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "date": "19/8/2023",
+      "title": "Grocery Web App",
+      "description": "The e-commerce project entails building a dynamic website with CRUD operations, product categorization,search functionality, and user authentication for seamless login & sign-up experience",
+      "url": "https://fresh-grocery.netlify.app/",
+      "imgSrc": "https://templatesjungle.com/wp-content/uploads/2022/03/Shopery-Organic-eCommerce-Figma-Template.jpg"
+    },
+    {
+      "date": "19/9/2023",
+      "title": "Trello Kanban Board",
+      "description": "The Kanban Board project built in React offers a user-friendly interface with drag and drop functionality, enabling efficient task management. It includes CRUD features for adding, deleting, and editing cards and lists.",
+      "url": "https://kanban-ten-gold.vercel.app/",
+      "imgSrc": "https://wac-cdn.atlassian.com/dam/jcr:20386fdc-1de9-43ab-8ae6-4564aa8e7e94/image4.png?cdnVersion=1017"
+    },
+    {
+      "date": "19/7/2023",
+      "title": "URL Shortener",
+      "description": "This URL Shortener project aims to provide a convenient and efficient solution for shortening long URLs into concise and manageable links. The project allows users to input a long URL and generates a shortened version of it for easy sharing and access.",
+      "url": "https://url-shortener-k1e9.onrender.com/",
+      "imgSrc": "https://th.bing.com/th/id/OIP.HhuOXNgnITknhjBYKW5SZgHaE9?rs=1&pid=ImgDetMain"
+    },
+    {
+      "date": "6/7/2023",
+      "title": "Gym Website",
+      "description": "The Gym website, built using React.js, offers multiple pages with login and register functionality, incorporating robust validation. Additionally, it includes a pricing section where users can conveniently purchase gym subscriptions",
+      "url": "https://gym-website1-0.netlify.app/",
+      "imgSrc": "https://freehtmldesigns.com/wp-content/uploads/2017/12/Intense-1.jpg"
+    },
+    {
+      "date": "07/10/2023",
+      "title": "TECHY STAR",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "11/10/2023",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-video-app-eight.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "17/10/2023",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    }
+  ]
+}
